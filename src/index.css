@@ -4,13 +4,13 @@
  
 @layer base {
   :root {
-    --background: 0 0% 100%;
+    --background: #fff1e5; /* Updated to match Financial Times background color */
     --foreground: 222.2 84% 4.9%;
 
-    --card: 0 0% 100%;
+    --card: #fff1e5; /* Updated to match Financial Times background color */
     --card-foreground: 222.2 84% 4.9%;
  
-    --popover: 0 0% 100%;
+    --popover: #fff1e5; /* Updated to match Financial Times background color */
     --popover-foreground: 222.2 84% 4.9%;
  
     --primary: 222.2 47.4% 11.2%;
